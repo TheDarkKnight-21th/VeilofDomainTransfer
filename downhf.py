@@ -1,0 +1,2 @@
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id="timm/imagenet-w21-wds", repo_type="dataset",local_dir="/home/dataset/imagenet-w21-wds",local_dir_use_symlinks=False,max_workers=16,resume_download=True)
