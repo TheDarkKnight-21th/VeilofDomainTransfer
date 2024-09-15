@@ -72,5 +72,3 @@ wds     ex) bash ./run_hyperparam_single.sh ../dataset/imagenet-w21-wds wds/ ../
 * 'bash ./download.sh'를 통해서 dataset을 다운로드 하면 run.sh에서 따로 경로 설정 없이 바로 실행 가능하니 참고해주세요.
 
 * GPU 할당 번호를 변경하시고 싶으시다면 run.sh 파일에 들어가서 변경하시면 됩니다. (주석 달아 놨습니다.)
-
-* 끝으로, 실험 도와주시는 것에 대해 다시 한번 감사드립니다. :)
