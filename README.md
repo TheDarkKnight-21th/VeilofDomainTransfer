@@ -28,7 +28,7 @@ git+https://github.com/webdataset/webdataset
 ```
 
 
-# Pretraining - Downstream finetuning and evaluation 
+# Baseline Pretraining - Downstream finetuning and evaluation 
 
 * **Data Prunend** 사전학습(pretraining)과 미세조정(finetuning)을 위해서는 밑에 명령어를 실행해 주세요! 
 ```
